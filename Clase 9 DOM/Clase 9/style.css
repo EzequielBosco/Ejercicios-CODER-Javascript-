@@ -1,0 +1,13 @@
+.tarjetaProducto {
+  border: 1px solid black;
+  margin: 1px;
+}
+
+.tarjetaProducto img {
+  width: 200px;
+  height: 200px;
+}
+
+.rojo {
+  background-color: red;
+}
